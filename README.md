@@ -37,7 +37,7 @@ Welcome to the Turtle Projects repository! This repository contains several proj
 1. Ensure you have Python installed on your system. If not, you can download it from the [official Python website](https://www.python.org/).
 2. Clone this repository to your local machine using ```git clone https://github.com/arpitpatelsitapur/Turtle-Projects.git```.
 3. Navigate to the project directory.
-4. Run each project's Python script individually using the command ```python file_name.py````.
+4. Run each project's Python script individually using the command ```python file_name.py```.
 
 ## Additional Notes:
 
